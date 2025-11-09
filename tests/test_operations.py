@@ -1,4 +1,3 @@
-import pytest
 from src.maths_oparations import add, sub
 
 def test_add():
